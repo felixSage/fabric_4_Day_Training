@@ -1,6 +1,6 @@
 [
     {
-        "p_rel_url" : "anshlambagit/Fabric-Tutorial/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+        "p_rel_url" : "https://raw.githubusercontent.com/felixSage/fabric_4_Day_Training/refs/heads/main/AdventureWorks_Product_Categories.csv", 
         "p_sink_folder" : "AdventureWorks_Product_Categories",
         "p_sink_file" : "AdventureWorks_Product_Categories.csv"
     },
@@ -40,5 +40,6 @@
         "p_sink_file" : "AdventureWorks_Territories.csv"
     }
 ]
+
 
 
